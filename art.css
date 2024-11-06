@@ -1,0 +1,17 @@
+* {
+    font-family: "Montserrat", sans-serif;
+}
+
+.img {
+    object-fit: cover;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("paper1.jpg");
+}
+
+.navbar {
+    background-color: rgb(47, 84, 123);
+}
